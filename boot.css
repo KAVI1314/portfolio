@@ -1,0 +1,25 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin-left: 100px;
+}
+.div2 h1{
+     font-style: italic;
+     margin-left: 300px;
+     color: darkblue;
+     margin-top: 40px;
+     font-size: 50px;
+}
+.div2 h5{
+    margin-left: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.div3 h3{
+     font: bold;
+     color: palevioletred;
+}
+.div3 h6{
+    color:black;
+}

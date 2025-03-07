@@ -1,0 +1,46 @@
+.input1{
+    align-items: center;
+    justify-content: center;
+}
+.head{
+    align-items: end;
+    color: red;
+}
+.top{
+    align-items: end;
+
+}
+.main{
+    padding: 100%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    border: 30px;
+    border-radius: 5px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.nav{
+    text-align: end;
+}
+.navbar{
+    background-color: whitesmoke;
+    justify-content: end;
+    align-items: end;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    padding: 14px 20px;
+    text-align: center;
+}
+.content{
+    padding: 20px 30px;
+    border-bottom: 10px;
+}
